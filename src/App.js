@@ -1,8 +1,11 @@
+import Button from './Button';
+import Table from './Table';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      
+      <Button />
+      <Table />
     </div>
   );
 }
