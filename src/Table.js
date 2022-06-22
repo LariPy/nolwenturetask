@@ -1,9 +1,10 @@
 import React from 'react';
 
+//receive data, present data
 const Table = () => {
     return(
-        <div>
-            Table
+        <div className='table'>
+            
         </div>
     )
 }

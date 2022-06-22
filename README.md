@@ -18,3 +18,25 @@ Write a small Node.js application that does following:
     * Does it support “48-bit Address feature set”
     * “Total number of user addressable logical sectors”, which should be converted to size of the disk (each sector is 512 bytes).
   - Returns parsed data in JSON format
+
+
+Steps to achieve:
+
+- basic setup: index.html, index.js, app.js
+- components: button, table
+- HTTP GET ?
+- Button: on click request data
+- parse received data
+  - binary shenanigans
+- send to Table
+- Table: present data
+
+
+delete later:
+google search: nodejs react http get
+find explanation:
+callback
+fetch
+
+about file reading
+https://nodejs.dev/learn/reading-files-with-nodejs
